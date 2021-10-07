@@ -12,6 +12,8 @@
 .date-text {
 	color: #3D58A6;
 	font-size: 22px;
+	font-family: "ALKDots", sans-serif;
+	font-weight: 700;
 }
 
 .first-article {
@@ -21,6 +23,8 @@
 .article-title {
 	font-size: 22px;
 	margin-bottom: 17px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-weight: bold;
 }
 
 .article-image {
@@ -36,6 +40,11 @@
 }
 .article-text {
 	margin-bottom: 25px;
+	font-family: 'Roboto', sans-serif;
+	text-indent: 30px;
+	letter-spacing: 2px;
+	text-transform: capitalize;
+	line-height: 21px;
 }
 /*article end*/
 
